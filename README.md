@@ -15,7 +15,7 @@ The goal is simple: **show up daily, write code, learn from mistakes, and build 
 | **Duration** | 21 Days |
 | **Language** | Python |
 | **Primary Goal** | Build Coding Consistency |
-| **Format** | Daily Coding Tasks |
+| **Format** | Daily Jupyter Notebooks & Tasks |
 | **Approach** | Learn → Code → Practice → Reflect |
 
 ---
@@ -36,20 +36,29 @@ By the end of this challenge, I aim to:
 
 ## 📅 21-Day Progress Tracker
 
-| Day | Topic / Challenge | Status |
-|:---:|---|:---:|
-| Day  | Python Basics | ⬜ |
-| Day  | Variables & Data Types | ⬜ |
-| Day  | Operators & Expressions | ⬜ |
-| Day  | Strings | ⬜ |
-| Day  | Lists | ⬜ |
-| Day  | Tuples & Sets | ⬜ |
-| Day  | Dictionaries | ⬜ |
-| Day  | Conditional Statements | ⬜ |
-| Day  | Loops | ⬜ |
-| Day  | Functions | ⬜ |
-| Day  | Function Arguments & Return Values | ⬜ |
-
+| Day | Topic / Challenge | Notebook | Status |
+|:---:|---|:---:|:---:|
+| Day 01 | Python Basics & Variables | [day_01.ipynb](day_01.ipynb) | ✅ Completed |
+| Day 02 | Strings & String Manipulation | [day_02.ipynb](day_02.ipynb) | ⬜ Not Started |
+| Day 03 | Numbers, Operators & Math | [day_03.ipynb](day_03.ipynb) | ⬜ Not Started |
+| Day 04 | Lists, Tuples & Sets | [day_04.ipynb](day_04.ipynb) | ⬜ Not Started |
+| Day 05 | Dictionaries & Data Structures | [day_05.ipynb](day_05.ipynb) | ⬜ Not Started |
+| Day 06 | Conditional Statements | [day_06.ipynb](day_06.ipynb) | ⬜ Not Started |
+| Day 07 | For Loops & Iteration | [day_07.ipynb](day_07.ipynb) | ⬜ Not Started |
+| Day 08 | While Loops & Control Flow | [day_08.ipynb](day_08.ipynb) | ⬜ Not Started |
+| Day 09 | Functions & Parameters | [day_09.ipynb](day_09.ipynb) | ⬜ Not Started |
+| Day 10 | Functions with Collections | [day_10.ipynb](day_10.ipynb) | ⬜ Not Started |
+| Day 11 | Function Scope & Return Values | [day_11.ipynb](day_11.ipynb) | ⬜ Not Started |
+| Day 12 | Lambda Functions & Comprehensions | [day_12.ipynb](day_12.ipynb) | ⬜ Not Started |
+| Day 13 | Nested Loops & Matrices | [day_13.ipynb](day_13.ipynb) | ⬜ Not Started |
+| Day 14 | Validation with Control Flow | [day_14.ipynb](day_14.ipynb) | ⬜ Not Started |
+| Day 15 | Built-in Modules & Exception Handling | [day_15.ipynb](day_15.ipynb) | ⬜ Not Started |
+| Day 16 | Small Text Processing Programs | [day_16.ipynb](day_16.ipynb) | ⬜ Not Started |
+| Day 17 | Number Algorithms & Math Problems | [day_17.ipynb](day_17.ipynb) | ⬜ Not Started |
+| Day 18 | Basic Data Processing & Aggregation | [day_18.ipynb](day_18.ipynb) | ⬜ Not Started |
+| Day 19 | Menu-Style Programs & Mini Apps | [day_19.ipynb](day_19.ipynb) | ⬜ Not Started |
+| Day 20 | Integrated Practice Problems | [day_20.ipynb](day_20.ipynb) | ⬜ Not Started |
+| Day 21 | Final Review & Capstone Practice | [day_21.ipynb](day_21.ipynb) | ⬜ Not Started |
 
 ### Status Key
 
@@ -61,93 +70,52 @@ By the end of this challenge, I aim to:
 
 ## 📂 Repository Structure
 
+All files are structured in sequential ascending order (`day_01.ipynb` through `day_21.ipynb`):
+
 ```text
-21-Days-Python-Challenge/
+Vivek_590042281_21_Day/
 │
 ├── README.md
 │
-├── Day_01/
-│   ├── README.md
-│   └── solution.py
-│
-├── Day_02/
-│   ├── README.md
-│   └── solution.py
-│
-├── Day_03/
-│   ├── README.md
-│   └── solution.py
-│
-├── ...
-│
-├── Day_20/
-│   ├── README.md
-│   └── project.py
-│
-└── Day_21/
-    ├── README.md
-    └── solution.py
+├── day_01.ipynb      # Python Basics & Variables
+├── day_02.ipynb      # Strings & String Manipulation
+├── day_03.ipynb      # Numbers, Operators & Math
+├── day_04.ipynb      # Lists, Tuples & Sets
+├── day_05.ipynb      # Dictionaries & Data Structures
+├── day_06.ipynb      # Conditional Statements
+├── day_07.ipynb      # For Loops & Iteration
+├── day_08.ipynb      # While Loops & Control Flow
+├── day_09.ipynb      # Functions & Parameters
+├── day_10.ipynb      # Functions with Collections
+├── day_11.ipynb      # Function Scope & Return Values
+├── day_12.ipynb      # Lambda Functions & Comprehensions
+├── day_13.ipynb      # Nested Loops & Matrices
+├── day_14.ipynb      # Validation with Control Flow
+├── day_15.ipynb      # Built-in Modules & Exceptions
+├── day_16.ipynb      # Small Text Processing Programs
+├── day_17.ipynb      # Number Algorithms & Math Problems
+├── day_18.ipynb      # Basic Data Processing
+├── day_19.ipynb      # Menu-Style Programs
+├── day_20.ipynb      # Integrated Practice
+└── day_21.ipynb      # Final Review & Capstone Practice
 ```
-
-Each daily folder can contain:
-
-- The day's challenge or problem statement
-- Python solution(s)
-- Notes or explanations
-- Sample input/output
-- Key learning points
 
 ---
 
 ## 💻 Daily Workflow
 
-Every day, I will follow this simple process:
+Every day follows this simple process:
 
 ```text
 1. Understand the day's topic
         ↓
-2. Solve the coding task
+2. Solve the coding tasks in Jupyter Notebook
         ↓
-3. Test the solution
+3. Test and debug all code cells
         ↓
-4. Refactor and improve the code
+4. Refactor and improve the solution
         ↓
-5. Document what I learned
-        ↓
-6. Commit and push to GitHub
-```
-
----
-
-## 🧠 Daily Challenge Template
-
-Each day's `README.md` can follow this format:
-
-```markdown
-# Day XX — Topic Name
-
-## 🎯 Objective
-What I want to learn or practice today.
-
-## 📝 Challenge
-Description of the coding problem.
-
-## 💡 Approach
-How I approached the problem.
-
-## 💻 Solution
-Link or reference to the Python solution.
-
-## ✅ Output
-Expected or actual output.
-
-## 📚 What I Learned
-- Learning point 1
-- Learning point 2
-- Learning point 3
-
-## 🔄 Improvement
-What I could improve or explore next.
+5. Commit and push to GitHub
 ```
 
 ---
@@ -160,112 +128,16 @@ What I could improve or explore next.
 4. Do not skip a day because the task feels too small.
 5. Focus on understanding rather than simply completing the task.
 6. Keep solutions readable and organized.
-7. Record at least one learning or observation each day.
-8. Progress is more important than perfection.
+7. Progress is more important than perfection.
 
 ---
 
 ## 🛠️ Tools
 
 - **Python 3**
-- **Git**
-- **GitHub**
-- **VS Code / Sublime Text / Any Python IDE**
-- **Command Line / Terminal**
-
----
-
-## ▶️ Running the Code
-
-Clone the repository:
-
-```bash
-git clone <your-repository-url>
-```
-
-Move into the repository:
-
-```bash
-cd 21-Days-Python-Challenge
-```
-
-Navigate to any day's folder:
-
-```bash
-cd Day_01
-```
-
-Run the Python program:
-
-```bash
-python solution.py
-```
-
-Depending on your system, you may need:
-
-```bash
-python3 solution.py
-```
-
----
-
-## 📈 What Success Looks Like
-
-Success does not mean writing perfect code every day.
-
-Success means:
-
-> **21 days of consistently showing up and writing Python.**
-
-At the end of the challenge, I should have:
-
-- ✅ 21 days of Python practice
-- ✅ 21 documented learning sessions
-- ✅ A stronger Python foundation
-- ✅ Better coding discipline
-- ✅ Improved problem-solving confidence
-- ✅ A GitHub repository that demonstrates consistent learning
-
----
-
-## 🏁 Final Goal
-
-```text
-Day 01  →  Start
-   ↓
-Practice
-   ↓
-Make Mistakes
-   ↓
-Learn
-   ↓
-Improve
-   ↓
-Repeat
-   ↓
-Day 21  →  Consistency Built 🚀
-```
-
----
-
-## 🌱 Challenge Philosophy
-
-> **Consistency beats intensity.**
-
-A small amount of focused coding every day is more valuable than waiting for the perfect time to learn.
-
-This challenge is about building the habit of **thinking, coding, debugging, learning, and improving every single day.**
-
----
-
-## ⭐ Follow the Journey
-
-If you find this challenge useful, feel free to:
-
-- ⭐ Star the repository
-- 🍴 Fork it and start your own 21-day challenge
-- 💡 Suggest interesting Python problems
-- 🤝 Share improvements or alternative solutions
+- **Jupyter Notebook**
+- **Git & GitHub**
+- **VS Code / Antigravity IDE**
 
 ---
 
