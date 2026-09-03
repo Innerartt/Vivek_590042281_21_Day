@@ -40,7 +40,7 @@ By the end of this challenge, I aim to:
 |:---:|---|:---:|:---:|
 | Day 01 | Python Basics & Variables | [day_01.ipynb](day_01.ipynb) | ✅ Completed |
 | Day 02 | Strings & String Manipulation | [day_02.ipynb](day_02.ipynb) | ✅ Completed |
-| Day 03 | Numbers, Operators & Math | [day_03.ipynb](day_03.ipynb) | ⬜ Not Started |
+| Day 03 | Numbers, Operators & Math | [day_03.ipynb](day_03.ipynb) | ✅ Completed |
 | Day 04 | Lists, Tuples & Sets | [day_04.ipynb](day_04.ipynb) | ⬜ Not Started |
 | Day 05 | Dictionaries & Data Structures | [day_05.ipynb](day_05.ipynb) | ⬜ Not Started |
 | Day 06 | Conditional Statements | [day_06.ipynb](day_06.ipynb) | ⬜ Not Started |
