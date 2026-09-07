@@ -44,7 +44,7 @@ By the end of this challenge, I aim to:
 | Day 04 | Lists, Tuples & Sets | [day_04.ipynb](day_04.ipynb) | ✅ Completed |
 | Day 05 | Dictionaries & Data Structures | [day_05.ipynb](day_05.ipynb) | ✅ Completed |
 | Day 06 | Conditional Statements | [day_06.ipynb](day_06.ipynb) | ✅ Completed |
-| Day 07 | For Loops & Iteration | [day_07.ipynb](day_07.ipynb) | ⬜ Not Started |
+| Day 07 | For Loops & Iteration | [day_07.ipynb](day_07.ipynb) | ✅ Completed |
 | Day 08 | While Loops & Control Flow | [day_08.ipynb](day_08.ipynb) | ⬜ Not Started |
 | Day 09 | Functions & Parameters | [day_09.ipynb](day_09.ipynb) | ⬜ Not Started |
 | Day 10 | Functions with Collections | [day_10.ipynb](day_10.ipynb) | ⬜ Not Started |
