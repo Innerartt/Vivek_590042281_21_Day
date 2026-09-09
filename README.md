@@ -46,7 +46,7 @@ By the end of this challenge, I aim to:
 | Day 06 | Conditional Statements | [day_06.ipynb](day_06.ipynb) | ✅ Completed |
 | Day 07 | For Loops & Iteration | [day_07.ipynb](day_07.ipynb) | ✅ Completed |
 | Day 08 | While Loops & Control Flow | [day_08.ipynb](day_08.ipynb) | ✅ Completed |
-| Day 09 | Functions & Parameters | [day_09.ipynb](day_09.ipynb) | ⬜ Not Started |
+| Day 09 | Functions & Parameters | [day_09.ipynb](day_09.ipynb) | ✅ Completed |
 | Day 10 | Functions with Collections | [day_10.ipynb](day_10.ipynb) | ⬜ Not Started |
 | Day 11 | Function Scope & Return Values | [day_11.ipynb](day_11.ipynb) | ⬜ Not Started |
 | Day 12 | Lambda Functions & Comprehensions | [day_12.ipynb](day_12.ipynb) | ⬜ Not Started |
