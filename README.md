@@ -49,7 +49,7 @@ By the end of this challenge, I aim to:
 | Day 09 | Functions & Parameters | [day_09.ipynb](day_09.ipynb) | ✅ Completed |
 | Day 10 | Functions with Collections | [day_10.ipynb](day_10.ipynb) | ✅ Completed |
 | Day 11 | Function Scope & Return Values | [day_11.ipynb](day_11.ipynb) | ✅ Completed |
-| Day 12 | Lambda Functions & Comprehensions | [day_12.ipynb](day_12.ipynb) | ⬜ Not Started |
+| Day 12 | Lambda Functions & Comprehensions | [day_12.ipynb](day_12.ipynb) | ✅ Completed |
 | Day 13 | Nested Loops & Matrices | [day_13.ipynb](day_13.ipynb) | ⬜ Not Started |
 | Day 14 | Validation with Control Flow | [day_14.ipynb](day_14.ipynb) | ⬜ Not Started |
 | Day 15 | Built-in Modules & Exception Handling | [day_15.ipynb](day_15.ipynb) | ⬜ Not Started |
