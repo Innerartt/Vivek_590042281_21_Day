@@ -53,7 +53,7 @@ By the end of this challenge, I aim to:
 | Day 13 | Nested Loops & Matrices | [day_13.ipynb](day_13.ipynb) | ✅ Completed |
 | Day 14 | Validation with Control Flow | [day_14.ipynb](day_14.ipynb) | ✅ Completed |
 | Day 15 | Built-in Modules & Exception Handling | [day_15.ipynb](day_15.ipynb) | ✅ Completed |
-| Day 16 | Small Text Processing Programs | [day_16.ipynb](day_16.ipynb) | ⬜ Not Started |
+| Day 16 | Small Text Processing Programs | [day_16.ipynb](day_16.ipynb) | ✅ Completed |
 | Day 17 | Number Algorithms & Math Problems | [day_17.ipynb](day_17.ipynb) | ⬜ Not Started |
 | Day 18 | Basic Data Processing & Aggregation | [day_18.ipynb](day_18.ipynb) | ⬜ Not Started |
 | Day 19 | Menu-Style Programs & Mini Apps | [day_19.ipynb](day_19.ipynb) | ⬜ Not Started |
