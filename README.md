@@ -57,7 +57,7 @@ By the end of this challenge, I aim to:
 | Day 17 | Number Algorithms & Math Problems | [day_17.ipynb](day_17.ipynb) | ✅ Completed |
 | Day 18 | Basic Data Processing & Aggregation | [day_18.ipynb](day_18.ipynb) | ✅ Completed |
 | Day 19 | Menu-Style Programs & Mini Apps | [day_19.ipynb](day_19.ipynb) | ✅ Completed |
-| Day 20 | Integrated Practice Problems | [day_20.ipynb](day_20.ipynb) | ⬜ Not Started |
+| Day 20 | Integrated Practice Problems | [day_20.ipynb](day_20.ipynb) | ✅ Completed |
 | Day 21 | Final Review & Capstone Practice | [day_21.ipynb](day_21.ipynb) | ⬜ Not Started |
 
 ### Status Key
